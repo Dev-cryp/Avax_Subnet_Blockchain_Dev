@@ -2,7 +2,7 @@
 
 Create and deploy your very own blockchain network using an Avalanche Subnet. This project involves setting up a custom blockchain environment and deploying smart contracts for tokens or vaults. You’ll also develop a simple DeFi-based platform to demonstrate the functionality and potential of your new blockchain network. 🌐🚀 This project is introduced by MetaCrafters and utilizes the Avalanche framework.
 
-### Avalanche Subnet Introduction (Avalanche Documentation)[https://docs.avax.network/subnet]
+### Avalanche Subnet Introduction [Avalanche Documentation](https://docs.avax.network/subnet)
 
 An Avalanche Subnet is a custom blockchain network built on the Avalanche platform. Subnets allow you to create your own blockchain environment with its own rules, consensus mechanism, and virtual machine, while still benefiting from Avalanche's high throughput and low latency.
 
